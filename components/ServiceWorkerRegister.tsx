@@ -19,5 +19,5 @@ export default function ServiceWorkerRegister() {
     }
   }, []);
 
-  return null; // This component doesn't render anything visually
+  return null; 
 }
